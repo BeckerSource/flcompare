@@ -1,9 +1,11 @@
 # flcompare
 **Files Line Compare**
 
-Compare strings in one (source) file against another (target). Two extra files are output that list source strings that are found and not found in the target.
+Console program to compare strings in one (source) file against another (target).
 
-Uses Boost 1.7.
+Two extra files are output that list source strings that are found and not found in the target.
+
+Source requires Boost 1.7 (untested on other versions).
 
 Command line args:<br>
         <source_file><br>
