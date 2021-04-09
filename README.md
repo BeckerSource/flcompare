@@ -5,7 +5,7 @@ Compare strings in one (source) file against another (target). Two extra files a
 
 Uses Boost 1.7.
 
-Files Partial Line Compare args:<br>
+Command line args:<br>
         <source_file><br>
         <compare_file><br>
         <optional bool: compare as whole words (def. 1)><br>
