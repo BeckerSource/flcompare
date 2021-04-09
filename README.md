@@ -1,5 +1,5 @@
 # flcompare
-Files Line Compare
+**Files Line Compare**
 
 Compare strings in one (source) file against another (target).
 
